@@ -42,7 +42,6 @@ export default function Board() {
 
 
 
-
   return (
     <>
       <div className="status">{status}</div>
